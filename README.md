@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=280104&label=Profile%20views&color=0e75b6&style=flat" alt="280104" />
 </p>
 
-- 👩‍💻 Presently acquiring **WEB DEVELOPMENT**
+- 👩‍💻 Presently acquiring **WEB DEVELOPMENT, DATA Science**
 - ❓ Inquire regarding **Python, Java, SQL, MongoDB,**
 - 📧 Contact information **naveedmd78600@gmail.com**
 
